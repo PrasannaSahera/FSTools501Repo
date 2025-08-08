@@ -7,5 +7,9 @@ public class Arithmetic {
 	{
 		return a + b;
 	}
+	
+	public int sub(int x, int y) {
+		return x-y;
+	}
 
 }
