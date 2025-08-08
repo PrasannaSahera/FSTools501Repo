@@ -3,12 +3,12 @@ package com.nit.main;
 public class Arithmetic {
 	
 	/* Method to add the two integer number */
-	public int  Add(int a, int b)
+	public double  Add(double a, double b)
 	{
 		return a + b;
 	}
 	
-	public int sub(int x, int y) {
+	public double sub(double x, double y) {
 		return x-y;
 	}
 
