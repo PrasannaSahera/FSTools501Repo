@@ -7,6 +7,7 @@
 /target/
 
 #Maven specific
+pom.properties
 pom.xml.tar
 pom.xml.versionsBackup
 pom.xml.revisionBackup
